@@ -1,5 +1,5 @@
-a=int(raw_input())
+v=int(raw_input())
 sum=1
-for i in range(1,a+1,1):
-    sum=sum*i
+for j in range(1,v+1,1):
+    sum=sum*j
 print(sum)
